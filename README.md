@@ -35,7 +35,7 @@ That's it! You can now start calculating ages based on birthdates.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-
-- [Your Name]
+- **MASTERYob**
+- GitHub: [Your GitHub Profile](https://github.com/YawBoah)
 
 Feel free to contribute to the project, report issues, or suggest improvements. Enjoy calculating ages with the **Age Calculator**!
