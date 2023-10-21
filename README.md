@@ -12,7 +12,6 @@ The **Age Calculator** is a simple web application that calculates a person's ag
 3. The application will instantly calculate your age and display it in years, months, and days.
 
 ## Technologies Used
-
 - HTML: The structure and layout of the web page.
 - CSS: Styling and design of the user interface.
 - JavaScript: Age calculation logic and real-time updates.
