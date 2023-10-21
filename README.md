@@ -18,7 +18,6 @@ The **Age Calculator** is a simple web application that calculates a person's ag
 - Web Browser: The application runs directly in your web browser.
 
 ## Getting Started
-
 You can use the **Age Calculator** by following these steps:
 
 1. Clone the repository to your local machine using Git or download the source code as a ZIP file.
