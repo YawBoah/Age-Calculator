@@ -7,7 +7,6 @@ The **Age Calculator** is a simple web application that calculates a person's ag
 - Real-time updates: The age calculation updates in real-time as the user enters their birthdate.
 
 ## How to Use
-
 1. Open the **Age Calculator** web application in your browser.
 2. Enter your birthdate in the provided input field.
 3. The application will instantly calculate your age and display it in years, months, and days.
