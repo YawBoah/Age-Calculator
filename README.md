@@ -2,7 +2,6 @@
 The **Age Calculator** is a simple web application that calculates a person's age based on their birthdate input. It's a handy tool for quickly determining how old someone is in years, months, and days.
 
 ## Features
-
 - User-friendly interface: The application provides a straightforward interface for users to input their birthdate.
 - Accurate age calculation: It accurately calculates the user's age in years, months, and days.
 - Real-time updates: The age calculation updates in real-time as the user enters their birthdate.
