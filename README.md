@@ -26,7 +26,6 @@ You can use the **Age Calculator** by following these steps:
 That's it! You can now start calculating ages based on birthdates.
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
